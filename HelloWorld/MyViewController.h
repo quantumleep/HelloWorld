@@ -15,6 +15,7 @@
     UILabel *label;
 }
 - (IBAction)changeGreeting:(id)sender;
+
 @property (nonatomic, retain) IBOutlet UITextField *textField;
 
 @property (nonatomic, retain) IBOutlet UILabel *label;
